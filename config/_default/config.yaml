@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: iWAN Research Group # Website name
-baseurl: 'https://iwan.github.io/' # Website URL
+baseurl: 'https://iwan-rg.github.io/' # Website URL
 copyright: '© iWAN, {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
