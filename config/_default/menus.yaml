@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: iWAN Members
+  - name: Members
     url: '#people'
     weight: 20 
   - name: Contact
